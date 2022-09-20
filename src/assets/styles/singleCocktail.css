@@ -1,0 +1,35 @@
+.single-cocktail-detail {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.single-cocktail-detail h1 {
+  font-size: 40px;
+  padding: 40px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.cocktail-det {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.cocktail-det img {
+  height: 350px;
+  width: 350px;
+  border-radius: 10px;
+}
+.det-text p {
+  padding: 10px;
+}
+.det-title {
+  background-color: grey;
+  padding: 4px 8px;
+  border-radius: 2px;
+}
+.det-title-desc {
+  padding-left: 10px;
+}

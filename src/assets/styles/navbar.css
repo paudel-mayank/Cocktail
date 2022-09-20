@@ -1,0 +1,34 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #dfe4ea;
+  padding: 10px;
+}
+.navbar-link-title {
+  font-family: "Montez", cursive !important;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+}
+.navbar img {
+  height: 50px;
+  width: 50px;
+}
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.nav-link-title {
+  color: rgb(35, 30, 30);
+  padding: 8px 12px;
+  font-size: 18px;
+}
+.nav-link-title:hover {
+  background-color: #cbc2db;
+  border-radius: 8px;
+}
